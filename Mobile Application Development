@@ -1,0 +1,123 @@
+# 📱 Mobile Application Development (Flutter)
+
+A comprehensive, 3-level course designed to take you from beginner to advanced Flutter developer.
+
+---
+
+## 👨‍🏫 Course Incharge
+**Sahil Khimani**
+
+---
+
+## 🧑‍🎓 Certification
+✅ Certificate will be awarded upon completion of **each module**.
+
+---
+
+## 📘 Module 1: Basic Level – Foundations of Flutter & Dart
+**Duration:** 10 Weeks  
+**Objective:** Learn Dart fundamentals and basic Flutter UI development.
+
+### Week-by-Week Breakdown
+- **Week 1:**  
+  - What is Flutter? Why use it?  
+  - Installing SDK & IDE (VS Code, Android Studio)  
+  - Dart basics: variables, data types, functions  
+
+- **Week 2–3:**  
+  - Control flow (if/else, loops, switch)  
+  - Collections: List, Set, Map  
+  - OOP: Classes and Objects  
+  - Hands-on with DartPad  
+
+- **Week 4:**  
+  - Practice sessions & test  
+
+- **Week 5–6:**  
+  - Flutter architecture: Widget tree  
+  - Stateless vs Stateful widgets  
+  - Text, Image, Container, Row, Column widgets  
+
+- **Week 7:**  
+  - First App: Counter  
+  - Hot reload, debugging  
+  - Buttons and inputs  
+
+- **Week 8:**  
+  - Navigation between screens  
+  - Data passing & Material Design  
+
+- **Week 9:**  
+  - GitHub introduction and sessions  
+
+- **Week 10:**  
+  - Final Project
+
+---
+
+## 📗 Module 2: Intermediate Level
+**Duration:** 8 Weeks  
+**Objective:** Build real-world apps using APIs, forms, and storage.
+
+### Week-by-Week Breakdown
+- **Week 1:**  
+  - State: setState vs lifted state  
+  - Introduction to Provider  
+
+- **Week 2–3:**  
+  - Forms & TextFormField  
+  - Input validation  
+  - Practice exercises  
+
+- **Week 4:**  
+  - HTTP requests  
+  - JSON parsing  
+  - API integration  
+
+- **Week 5:**  
+  - ListView.builder  
+  - ScrollControllers  
+  - Pull-to-refresh  
+
+- **Week 6–7:**  
+  - SharedPreferences  
+  - sqflite database  
+  - CRUD operations  
+
+- **Week 8:**  
+  - Project Week
+
+---
+
+## 📕 Module 3: Advanced Level – Professional App Development
+**Duration:** 8 Weeks  
+**Objective:** Build production-ready apps using Firebase, state management, animations & architecture.
+
+### Week-by-Week Breakdown
+- **Week 1:**  
+  - Provider (advanced), Riverpod/Bloc overview  
+  - Managing large app states  
+
+- **Week 2:**  
+  - Firebase setup  
+  - Auth, Firestore  
+  - Login/registration, real-time DB  
+
+- **Week 3:**  
+  - Tween, AnimatedBuilder, Hero  
+  - Custom widgets  
+
+- **Week 4:**  
+  - Debugging performance  
+  - Code splitting, image caching  
+
+- **Week 5:**  
+  - Advanced Navigation  
+  - Named routes, deep linking  
+
+- **Week 6:**  
+  - MVC vs MVVM vs Clean Architecture  
+  - get_it (DI), mockito for testing  
+
+- **Week 7–8:**  
+  - Final Project & Presentation

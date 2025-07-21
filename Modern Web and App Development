@@ -1,0 +1,128 @@
+📜 Certification is awarded upon completion of each module
+📍 Course Incharge: Abdul Basit Arif
+
+🧩 Module 1: Introduction to Web Designing
+Who Can Join: Matric-qualified students with basic computer knowledge
+
+Duration: 2.5 Months
+
+Assessment:
+
+HTML5 Quiz
+
+CSS3 Quiz
+
+Final Hackathon
+
+📚 Topics Covered:
+What is the Internet & How it Operates
+
+HTTP, Domains, DNS, Hosting & Browsers
+
+Hands-on with HTML5 & CSS3 (Books Included)
+
+CSS Animations (Animate.css, Media Queries, Flexbox)
+
+Icon Libraries (Font Awesome), Google Fonts
+
+UI Designing using Figma + Plugins
+
+Understanding Web Accessibility
+
+Hosting Projects with Netlify
+
+Git & GitHub Essentials (using GitHub Desktop)
+
+Deployment via Namecheap (Domain & Hosting)
+
+🧩 Module 2: Front-End Development
+Prerequisite: Completion of Module 1
+
+Duration: 4.5 Months
+
+Assessment:
+
+JavaScript Quizzes (Ch 1–89)
+
+TypeScript Quiz
+
+Git Quiz
+
+Final Hackathon
+
+📚 Topics Covered:
+JavaScript Core Concepts (from Basics to ESNext)
+
+Functional Programming (HOFs, Callbacks, Promises, etc.)
+
+Modern JS Features: Destructuring, Spread/Rest, Optional Chaining, etc.
+
+TypeScript Deep Dive (Types, Interfaces, Classes, Generics, etc.)
+
+Git Advanced: Branching, Pull Requests, Rebase, Cherry Pick
+
+Animations using GSAP
+
+Supabase Integration (Auth, DB, Storage)
+
+Certifications: JetBrains JavaScript Certificate
+
+🧩 Module 3: Advanced Front-End with React
+Prerequisite: Completion of Module 1 & 2
+
+Duration: 3 Months
+
+Assessment: ReactJS Quiz + Final Hackathon
+
+📚 Topics Covered:
+Node Runtime Environment, NPM & Yarn
+
+ReactJS v19 (CRA & Vite)
+
+State Management: Context API, Redux Toolkit, TanStack Query
+
+Styling: TailwindCSS, Shadcn
+
+API Handling with Axios
+
+Authentication Strategies & Security (CORS, HTTPS, CSP, OWASP)
+
+Introduction to Next.js
+
+Testing with Playwright / Vitest
+
+Certifications: React Nano Degree & Meta Front-End Certificate
+
+🧩 Module 4: Back-End App Development
+Prerequisite: Completion of Module 2
+
+Duration: 4 Months
+
+Assessment:
+
+Node.js / Express Quiz
+
+MongoDB Quiz
+
+PostgreSQL Quiz
+
+Final Hackathon
+
+📚 Topics Covered:
+Node.js + Express Architecture
+
+REST APIs (Routes, Middleware, JWT, File System)
+
+Real-time WebSocket & Socket.IO
+
+MongoDB and PostgreSQL CRUD & Queries
+
+User Auth (bcrypt, JWT)
+
+Cloudinary for File Storage
+
+Redis & Node-cache for Performance
+
+Linux Basics + GCP Deployment
+
+Payment Gateway Integration (Stripe, PayPal)
